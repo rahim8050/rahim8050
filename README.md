@@ -26,7 +26,8 @@ Backend developer | DevOps enthusiast | Ex-military discipline
 
 ### 📫 How to reach me
 
-- [LinkedIn](www.linkedin.com/in/ibrahim-muturi-0310b2126)  
+- [LinkedIn](https://www.linkedin.com/in/ibrahim-muturi-0310b2126)
+  
 - [Twitter](https://x.com/_ibrahimkenya)  
 
 ---
