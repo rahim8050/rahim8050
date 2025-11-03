@@ -26,8 +26,8 @@ Backend developer | DevOps enthusiast | Ex-military discipline
 
 ### 📫 How to reach me
 
-- [LinkedIn](https://linkedin.com/in/rahim8050)  
-- [Twitter](https://twitter.com/rahim8050)  
+- [LinkedIn](www.linkedin.com/in/ibrahim-muturi-0310b2126)  
+- [Twitter](https://x.com/_ibrahimkenya)  
 
 ---
 
@@ -49,7 +49,7 @@ Backend developer | DevOps enthusiast | Ex-military discipline
 
 ### 🏆 Pinned Repositories
 
-[// Add pinned repos here by pinning them in GitHub UI]
+
 
 ---
 
