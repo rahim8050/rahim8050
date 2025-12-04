@@ -8,7 +8,7 @@ Backend developer | DevOps enthusiast | Ex-military discipline
 
 - 🔒 Building **secure, scalable, and maintainable** backend systems  
 - 🐍 Python (Django) & PHP (Laravel) expert  
-- 🔧 Strong focus on **production standards**: Bandit, Ruff, MyPy, Pint, Larastan, PHPStan  
+- 🔧 Strong focus on **production standards**: Bandit, Ruff, MyPy, PEP8, Pint, Larastan, PHPStan  
 - 🛠️ DevOps automation: CI/CD pipelines, Docker, cloud deployments  
 - 🎯 Security-first mindset: environment-based secrets, ORM-safe queries, API rate limiting  
 - ⚡ Frontend basics with Vue.js, TailwindCSS — clean separation of concerns  
