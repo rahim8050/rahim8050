@@ -40,7 +40,10 @@ This project reflects how I approach backend work: **spec → design → impleme
 - Modern backend architectures with **security, observability, and reliability** at the core  
 - Automated infrastructure workflows & **CI/CD** for Python & PHP backends  
 - Projects involving **API security, authentication, and rate limiting**  
-- Integrating **AI and backend systems** (LLM-backed services and internal tools)  
+- Integrating **AI and backend systems** (LLM-backed services and internal tools)
+- Advanced backend architectures & distributed systems
+- High-performance Python patterns
+- AI-powered backend integrations (Nextcloud + custom APIs)  
 
 ---
 
