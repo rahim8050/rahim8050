@@ -1,34 +1,57 @@
 # Hi, I'm Rahim 👋
 
-Backend developer | DevOps enthusiast | Ex-military discipline
+Backend Engineer | Systems Thinker | DevOps Discipline | Ex-military Precision
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔒 Building **secure, scalable, and maintainable** backend systems  
-- 🐍 Python (Django) & PHP (Laravel) expert  
-- 🔧 Strong focus on **production standards**: Bandit, Ruff, MyPy, PEP8, Pint, Larastan, PHPStan  
-- 🛠️ DevOps automation: CI/CD pipelines, Docker, cloud deployments  
-- 🎯 Security-first mindset: environment-based secrets, ORM-safe queries, API rate limiting  
-- ⚡ Frontend basics with Vue.js, TailwindCSS — clean separation of concerns  
-- 🎖️ Military-inspired discipline shaping precise, strategic engineering  
+I design and build **secure, scalable, and reliable backend systems** with a strong focus on performance, correctness, and observability.
 
----
-
-### 🔭 What I’m working on
-
-- Modern backend architectures with security & reliability at the core  
-- Automated infrastructure workflows & CI/CD pipelines  
-- Projects involving API security, authentication, and rate limiting  
+- 🐍 Backend engineering with **Python (Django/DRF)** & **PHP (Laravel)**  
+- 🔒 Security-first mindset: environment-based secrets, ORM-safe queries, API rate limiting, hardened configs  
+- 🧠 Systems thinking: protocols, configuration design, benchmarking, and failure-mode analysis  
+- 🛠️ DevOps automation: CI/CD pipelines, Docker, reproducible environments, cloud deployments  
+- ⚡ Frontend when needed: Vue.js, TailwindCSS — with strict separation of concerns  
+- 🎖️ Military-inspired discipline shaping deliberate, precise engineering  
 
 ---
 
-### 📫 How to reach me
+### 🔹 Recent Engineering Highlight
 
-- [LinkedIn](https://www.linkedin.com/in/ibrahim-muturi-0310b2126)
-  
-- [Twitter](https://x.com/_ibrahimkenya)  
+**Concurrent TCP String Lookup Server (Systems & Performance Engineering)**  
+
+Recently built a production-style **concurrent TCP server** with:
+
+- Multi-threaded request handling  
+- TLS support (config-driven certificate & key paths)  
+- Config-based behavior (no hardcoded paths, environment-driven config loading)  
+- Multiple search strategies (`set`, `sorted`, `scan`, `splitlines`, `grep`)  
+- Benchmarking harness with p99 / max latency and reproducible runs  
+- ~2,400+ lines of tests for branch/edge-case coverage  
+- Static analysis with **Bandit, Ruff, MyPy** and **0 medium/high severity issues** in application code  
+
+This project reflects how I approach backend work: **spec → design → implementation → tests → benchmarks → security → documentation**.
+
+---
+
+### 🔭 What I’m Working On
+
+- Modern backend architectures with **security, observability, and reliability** at the core  
+- Automated infrastructure workflows & **CI/CD** for Python & PHP backends  
+- Projects involving **API security, authentication, and rate limiting**  
+- Integrating **AI and backend systems** (LLM-backed services and internal tools)  
+
+---
+
+### 🔧 Tools & Technologies
+
+| Backend & APIs             | DevOps & CI/CD                | Frontend                  | Security & Quality            |
+|----------------------------|-------------------------------|---------------------------|--------------------------------|
+| Python (Django, DRF)       | Docker, Docker Compose        | Vue.js, TailwindCSS       | Bandit, Ruff, MyPy             |
+| PHP (Laravel, Sanctum)     | GitHub Actions, CI pipelines  |                           | Pint, Larastan, PHPStan        |
+| REST APIs, JWT, OAuth2     | Pre-commit hooks, Automation  |                           | Env-based secrets, CORS, ACLs  |
+| PostgreSQL, MySQL, SQLite  | Cloud deployments (AWS/GCP)   |                           | API rate limiting & logging    |
 
 ---
 
@@ -38,21 +61,17 @@ Backend developer | DevOps enthusiast | Ex-military discipline
 
 ---
 
-### 🔧 Tools & Technologies
+### 📫 How to reach me
 
-| Backend                  | DevOps & CI/CD             | Frontend                   | Security                  |
-|--------------------------|----------------------------|----------------------------|---------------------------|
-| Python (Django, DRF)     | Docker, GitHub Actions     | Vue.js, TailwindCSS        | Bandit, Ruff, MyPy, Pint  |
-| PHP (Laravel, Sanctum)   | Pre-commit hooks, Automation| ESLint, Prettier, Stylelint | Environment secrets       |
-| REST APIs, JWT, OAuth2   | Cloud (AWS/GCP) deployments |                            | API rate limiting & CORS  |
+- [LinkedIn](https://www.linkedin.com/in/ibrahim-muturi-0310b2126)  
+- [Twitter](https://x.com/_ibrahimkenya)  
 
 ---
 
 ### 🏆 Pinned Repositories
 
-
+> I use pinned repositories to showcase systems-level backend projects, performance-focused services, and secure API backends.
 
 ---
 
-*“Discipline and precision define both my code and mindset.”*
-
+Discipline, clarity, and precision — in code and in life.
