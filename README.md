@@ -1,6 +1,6 @@
 # Hi, I'm Rahim 👋
 
-Backend Engineer | Systems Thinker | DevOps Discipline | Ex-military Precision
+Backend & Distributed Systems Engineer | Microservices | DevOps | Production-Grade | Ex-Military Precision
 
 ---
 
