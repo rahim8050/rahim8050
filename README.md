@@ -8,7 +8,7 @@ Backend & Distributed Systems Engineer | Microservices | DevOps | Production-Gra
 
 I design and build secure, scalable, and high-performance backend systems with a focus on correctness, observability, and reliability.
 
-_ 🐍 Backend: Python (Django/DRF), PHP (Laravel), Rust for performance-critical services
+- 🐍 Backend: Python (Django/DRF), PHP (Laravel), Rust for performance-critical services
 - 🔒 Security-first: environment-based secrets, ORM-safe queries, API rate limiting, hardened configs
 - 🧠 Systems thinking: protocols, configuration design, benchmarking, failure-mode analysis
 - 🛠️ DevOps automation: CI/CD pipelines, Docker, reproducible environments, cloud deployments
