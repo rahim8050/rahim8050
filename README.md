@@ -6,15 +6,14 @@ Backend & Distributed Systems Engineer | Microservices | DevOps | Production-Gra
 
 ## 🚀 About Me
 
-I design and build **secure, scalable, and reliable backend systems** with a strong focus on performance, correctness, and observability.
+I design and build secure, scalable, and high-performance backend systems with a focus on correctness, observability, and reliability.
 
-- 🐍 Backend engineering with **Python (Django/DRF)** & **PHP (Laravel)**  
-- 🔒 Security-first mindset: environment-based secrets, ORM-safe queries, API rate limiting, hardened configs  
-- 🧠 Systems thinking: protocols, configuration design, benchmarking, and failure-mode analysis  
-- 🛠️ DevOps automation: CI/CD pipelines, Docker, reproducible environments, cloud deployments  
-- ⚡ Frontend when needed: Vue.js, TailwindCSS — with strict separation of concerns  
-- 🎖️ Military-inspired discipline shaping deliberate, precise engineering  
-
+_ 🐍 Backend: Python (Django/DRF), PHP (Laravel), Rust for performance-critical services
+- 🔒 Security-first: environment-based secrets, ORM-safe queries, API rate limiting, hardened configs
+- 🧠 Systems thinking: protocols, configuration design, benchmarking, failure-mode analysis
+- 🛠️ DevOps automation: CI/CD pipelines, Docker, reproducible environments, cloud deployments
+- ⚡ Frontend (when needed): Vue.js, TailwindCSS — strict separation of concerns
+- 🎖️ Discipline-driven: military-inspired approach for deliberate, precise engineering
 ---
 
 ### 🔹 Recent Engineering Highlight
