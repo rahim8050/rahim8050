@@ -33,15 +33,27 @@ Recently built a production-style **concurrent TCP server** with:
 
 This project reflects how I approach backend work: **spec → design → implementation → tests → benchmarks → security → documentation**.
 
+**Microservices Platform (Rust + Python) — Production-Grade Backend Systems**
+Designed and deployed modular microservices integrating Python (Django/DRF) and Rust (Actix/Axum)
+- Secure APIs with JWT/OAuth2, rate-limiting, and environment-driven configuration
+- Distributed architecture supporting high throughput and fault-tolerant workloads
+- Observability-first design: structured logging, metrics, and failure-mode monitoring
+- Automated CI/CD pipelines and cloud deployment workflows for reproducible production environments
+- Benchmarked services for performance, latency, and reliability, ensuring global production standards
+- Enabled AI/LLM-backed services integration for dynamic backend processing
+
+This highlights my approach: modular design → secure implementation → observability → CI/CD → performance → AI integration → production-ready delivery.
+
 ---
 
 ### 🔭 What I’m Working On
 
 - Designing and deploying modular microservices (Rust + Python) with secure, observable, and scalable APIs
-- Building distributed backend systems for high-performance and fault-tolerant workloads
-- Implementing production-grade CI/CD pipelines and automated infrastructure workflows
+- Building distributed backend systems for high-performance, fault-tolerant workloads
+- Implementing production-grade CI/CD pipelines and automated cloud infrastructure workflows
 - Integrating AI/LLM-backed services into backend systems for dynamic decision-making
-
+- Enforcing robust API security, authentication, and rate-limiting across all services
+- Exploring high-performance Python patterns and observability-driven optimizations
 ---
 
 ### 🔧 Tools & Technologies
